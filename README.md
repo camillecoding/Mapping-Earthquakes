@@ -1,6 +1,7 @@
 # Mapping-Earthquakes
 This project uses GeoJSON to create a global, interactive map of earthquakes, with special emphasis on large earthquakes.
 
+## Summary ##
 The page operates using D3, GeoJSON data, and websites with specific earthquake and topographic data. I started with one map, and added the additional map layers to create different views. Users are able to select the map of their choice, then select or deselect the map's features they want to see. Options here include the tectonic boundaries across the world, all earthquakes, and major earthquakes over time.
 
 Screenshots of various views of this page below. 
